@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Waiting for the Sunrise', cursive; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('/media/raining-black-and-white.gif');
+  background-size: cover;
+}
+
+#root{
+  background-image: url('/media/Notebook.jpg');
+  background-size: 130vh;
+  background-position: 13vw -50vh;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
